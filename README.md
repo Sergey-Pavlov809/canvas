@@ -1,1 +1,2 @@
-# canvas
+# ts-galary
+галерея на typescript
